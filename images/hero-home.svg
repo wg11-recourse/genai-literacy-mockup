@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 130" fill="none" stroke="#325d88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="A small network of connected nodes with one generative spark">
+  <!-- connections -->
+  <g stroke-opacity="0.45">
+    <path d="M40 95 L80 52"/>
+    <path d="M80 52 L70 22"/>
+    <path d="M80 52 L132 72"/>
+    <path d="M132 72 L168 40"/>
+    <path d="M132 72 L150 104"/>
+  </g>
+  <!-- nodes -->
+  <circle cx="40" cy="95" r="6" fill="#f0ece4"/>
+  <circle cx="70" cy="22" r="5" fill="#f0ece4"/>
+  <circle cx="132" cy="72" r="7" fill="#f0ece4"/>
+  <circle cx="168" cy="40" r="5" fill="#f0ece4"/>
+  <circle cx="150" cy="104" r="4" fill="#f0ece4"/>
+  <!-- generative spark -->
+  <path d="M80 40 L83 49 L92 52 L83 55 L80 64 L77 55 L68 52 L77 49 Z" fill="#325d88" stroke="none"/>
+</svg>
